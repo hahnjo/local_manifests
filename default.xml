@@ -17,6 +17,10 @@
   <!-- common -->
   <project name="SonyCM/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
 
+  <!-- kitakami -->
+  <project name="SonyCM/android_device_sony_kitakami" path="device/sony/kitakami" remote="github" revision="cm-14.1" />
+  <project name="SonyCM/android_device_sony_satsuki" path="device/sony/satsuki" remote="github" revision="cm-14.1" />
+
   <!-- rhine -->
   <project name="SonyCM/android_device_sony_rhine" path="device/sony/rhine" remote="github" revision="cm-14.1" />
   <project name="SonyCM/android_device_sony_honami" path="device/sony/honami" remote="github" revision="cm-14.1" />
