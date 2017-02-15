@@ -8,10 +8,12 @@
   <project name="SonyLOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_device_sony_common-aosp" path="device/sony/common-aosp" remote="github" revision="cm-14.1" />
+  <project name="hahnjo/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-14.1" />
+  <project name="hahnjo/android_device_sony_amami" path="device/sony/amami" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_device_sony_loire-common" path="device/sony/loire-common" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_device_sony_kugo" path="device/sony/kugo" remote="github" revision="cm-14.1" />
   <project name="sonyxperiadev/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="n-mr1" />
-  <project name="SonyLOS/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-14.1" />
+  <project name="hahnjo/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="cm-14.1" />
