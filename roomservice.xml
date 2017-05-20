@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
 <manifest>
   <remove-project name="LineageOS/android_hardware_qcom_audio" />
   <remove-project name="LineageOS/android_hardware_qcom_display" />
@@ -23,8 +22,9 @@
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
   <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" path="hardware/sony/dataservices" remote="github" revision="master" />
   <project name="sonyxperiadev/vendor-qcom-opensource-location" path="hardware/sony/location" remote="github" revision="master" />
-  <project name="SonyAosp/vendor_broadcom" path="vendor/broadcom" remote="github" revision="android-7.0" />
-  <project name="SonyAosp/vendor_nxp" path="vendor/nxp" remote="github" revision="android-7.0" />
+  <project name="sonyxperiadev/vendor-broadcom-wlan" path="vendor/broadcom/wlan" remote="github" revision="master" />
+  <project name="sonyxperiadev/vendor-nxp" path="vendor/nxp" remote="github" revision="master" />
+  <project name="NXPNFCProject/NXPNFCC_FW" path="vendor/nxp/NXPNFCC_FW" remote="github" revision="master" />
   <project name="SonyAosp/vendor_qcom" path="vendor/qcom" remote="github" revision="android-7.0" />
   <project name="SonyAosp/vendor_sony" path="vendor/sony" remote="github" revision="android-7.0" />
   <project name="SonyAosp/vendor_qcom_firmware" path="vendor/qcom/firmware" remote="github" revision="android-7.0" />
